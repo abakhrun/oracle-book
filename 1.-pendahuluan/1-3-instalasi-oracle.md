@@ -1,5 +1,5 @@
 ---
-description: Bagian ini menjelaskan cara instalasi database Oracle veris 16c
+description: Bagian ini menjelaskan cara instalasi database Oracle veris 16c.
 ---
 
 # 1.3. Instalasi Oracle
